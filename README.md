@@ -51,7 +51,6 @@ Interested in complex systems, machine learning, and building things that work.
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesseAngeles&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesseAngeles&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 ---
