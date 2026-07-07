@@ -47,10 +47,3 @@ Interested in complex systems, machine learning, and building things that work.
 | [Servidor-ChatBot-inteligente](https://github.com/JesseAngeles/Servidor-ChatBot-inteligente) | Backend for an AI chatbot with CSV dataset processing and MongoDB | TypeScript · MongoDB |
 
 ---
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesseAngeles&theme=tokyonight&hide_border=true" height="165"/>
-</p>
----
